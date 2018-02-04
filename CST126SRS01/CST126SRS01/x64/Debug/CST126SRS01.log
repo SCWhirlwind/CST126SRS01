@@ -1,0 +1,4 @@
+﻿  strtrim.cpp
+c:\users\andrew.tran\cst126srs01\cst126srs01\strtrim.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\andrew.tran\cst126srs01\cst126srs01\strtrim.cpp(20): warning C4390: ';': empty controlled statement found; is this the intent?
+  CST126SRS01.vcxproj -> C:\Users\andrew.tran\CST126SRS01\x64\Debug\CST126SRS01.exe

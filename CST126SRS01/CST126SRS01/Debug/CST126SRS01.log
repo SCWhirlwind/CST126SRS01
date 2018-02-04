@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  strtrim.cpp
+c:\users\andrew.tran\cst126srs01\cst126srs01\strtrim.cpp(20): warning C4390: ';': empty controlled statement found; is this the intent?
+  main.cpp
+  Generating Code...
+  CST126SRS01.vcxproj -> C:\Users\andrew.tran\CST126SRS01\Debug\CST126SRS01.exe

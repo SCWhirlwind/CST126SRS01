@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  main.cpp
+  strtrim.cpp
+strtrim.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+strtrim.cpp(20): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CST126SRS01.vcxproj -> C:\Users\andrew.tran\CST126SRS01\x64\Release\CST126SRS01.exe
